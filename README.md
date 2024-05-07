@@ -1,4 +1,4 @@
-# Faithful32 AE2 UEL
+# ![image](https://github.com/marisathewitch/Faithful32-AE2-UEL/assets/5376817/e4d57547-5ebf-4d17-ba25-8163a1561d88) Faithful32 AE2 UEL
 
 Faithful 32 resource pack for AE2 UEL mods.
 ## Included
