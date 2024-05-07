@@ -9,6 +9,9 @@ Faithful 32 resource pack for AE2 UEL mods.
 All credit goes to Faithful-Mods.
 They do 90% of all work.
 
+# Screenshots
+![image](https://github.com/marisathewitch/Faithful32-AE2-UEL/assets/5376817/fa5c454c-9425-4986-89bb-26b6cbb73894)
+
 # Dont forget unpack zip file
 
 Unzip folder "Faithful32-AE2-UEL" and place in .minecraft\resourcepacks.
